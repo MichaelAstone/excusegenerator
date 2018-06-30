@@ -1,0 +1,48 @@
+
+h1 {
+	font-family:'Russo One', sans-serif;
+	font-size: 200px;
+	margin-left: 25px;
+	text-align: center;
+    text-decoration: bold;
+}
+
+button {
+	margin-left: 25px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 6px;
+	font-family: 'Russo One', sans-serif;
+	font-size: 28px;
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	background-color: #ddd;
+	border: 3px solid #555;
+	height: 60px;
+	width: 200px;
+}
+
+button:hover{
+	opacity: .75;
+}
+
+a{
+	color: #000;
+}
+
+#excuses{
+	position: relative;
+	top: 30px;
+	left: 25px;
+	font-family: 'Bangers', cursive;
+	font-size: 96px;
+	color: red;
+	text-align: center;
+}
+
+body{
+	background-image: url(https://cdn-images-1.medium.com/max/1600/1*XZrU5omVCZPZXuYv2AZnog.jpeg);
+	background-size: cover;
+}
+
